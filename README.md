@@ -1,6 +1,6 @@
 # jogo_python
 
-Autor: OTAVIO CAPOVILLA
+Autor: Willian Gois
 
 Ano: 2018
 
